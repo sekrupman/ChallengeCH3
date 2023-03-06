@@ -1,0 +1,260 @@
+.background{
+background-image: url(./image/main-bg.jpg);
+background-size:cover;
+min-height:100vh;
+background-position: center center;
+}
+.navv-link{
+padding-right: 1000px;
+color: white;
+font-size: 80px;
+    }
+.nav-link{
+opacity: 0,5 !important;
+font-size: 80px;
+color: black;
+padding-left: 100px;
+padding-right:100px;
+}
+.jumbotron{
+    text-align: center;
+    color: white;
+    background-color: transparent;
+}
+.display-4{
+font-size: 180px;
+font-weight: bold;
+padding-bottom: 50px;
+}
+.lead{
+font-size: 60px;
+padding-bottom: 500px;
+}
+.leadd{
+padding-bottom: 50px;
+}
+.btn{
+font-size: 60px;
+margin-bottom: 50;
+padding-left: 300px;
+padding-right: 300px;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+.text-center
+{
+    color: white;
+    font-size: 46px;
+}
+
+.background2{
+    background-image: url(./image/the-games-bg.jpg);
+    background-size:cover;
+    min-height:100vh;
+    background-position: center center;
+}
+.subtext{
+    display: flex;
+    color: white;
+    font-size: 60px;
+    padding-top: 500px;
+    padding-left: 500px;
+}
+.subtext2{
+    display: flex;
+    color: white;
+    font-size: 180px;
+    padding-left: 500px;
+}
+
+.background3{
+    background-image: url(./image/features.jpg);
+    background-size:cover;
+    min-height:100vh;
+    background-position: center center;
+}
+.subtext3{
+    text-align: right;
+    display: flex;
+    color: white;
+    font-size: 60px;
+    padding-left: 3500px;
+    padding-top: 500px;
+}
+.subtext4{
+    text-align: right;
+    display: flex;
+    color: white;
+    font-size: 180px;
+    padding-left: 3500px;
+    padding-top: 50px;
+}
+.subtext5{
+    text-align: left;
+    color:chartreuse;
+    padding-top: 100px;
+    font-size: 80px;
+    padding-left:3500px;
+}
+
+.subtext6{
+    text-align: right;
+    display: flex;
+    color: white;
+    font-size: 60px;
+    padding-left: 3500px;
+   }
+   .background4{
+    background-image: url(./image/requirements.png);
+    background-size:cover;
+    min-height:100vh;
+    background-position: center center;
+}
+.text1{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    padding-top: 500px;
+}
+.subtext7{
+    text-align:center;
+    display: flex;
+    color: white;
+    font-size: 180px;
+}
+.table{
+    color: white;
+    max-width: fit-content;
+}
+.text2{
+    color:chartreuse;
+    font-size: 80px;
+}
+.text3{
+    font-size: 60px;
+}
+.background5{
+    background-image: url(./image/top-score-bg.png);
+    background-size:cover;
+    min-height:100vh;
+    background-position: center center;
+}
+.subtext8{
+    text-align:center;
+    display: flex;
+    color: white;
+    font-size: 180px;
+    padding-left: 300px;
+}
+.subtext9{
+    display: flex;
+    color: white;
+    font-size: 60px; 
+    padding-left: 100px; 
+}
+.bhuton{
+    padding-top: 70px;
+    padding-left: 300px;
+}
+.row{
+    margin-right: 100px;
+    padding-left: 0%;
+    margin-top: 0cap;
+}
+.card{
+    display: flex;
+    font-size: 60px;
+    color: white;
+    padding-top: 100px;
+    background-color: rgb(43, 32, 32);
+}
+.row1{
+    color: white;
+   font-size: 80px;
+}
+
+.card-title{
+    color:chartreuse;
+    font-size: 60px;
+}
+.card-title1{
+    color: cadetblue;
+    font-size: 60px;
+}
+.card-text{
+    color: black;
+}
+.card-title2{
+    color: cadetblue;
+    font-size: 30px;
+}
+.background6{
+    background-image: url(./image/newsletter.png);
+    background-size:cover;
+    min-height:100vh;
+    background-position: center center;
+}
+.skull{
+   display: flex;
+   background-position-y: top;
+   align-items: first baseline;
+}
+.jumbotron1{
+    text-align: justify;
+    padding-left: 2000px;
+}
+.display-5{
+    font-size: 180px;
+    color: white;
+}
+.lead1{
+    color: white;
+    font-size: 80px;
+}
+.lead2{
+    color: white;
+    font-size: 60px;
+}
+.form-group{
+    place-content: right;
+    padding-left: 2000px;
+    padding-right: 2000px;
+}
+.buttonsub{
+    text-align: right;
+    padding-right: 800px;
+    padding-bottom:1,25rem;
+}
+.container1{
+    position:relative;
+    left: 700px;
+   
+}
+.formemail{
+    max-width: 500px;
+    color: white;
+}
+.grid{
+    color: white;
+}
+.newsletter{
+        text-align: left;
+}
+.textfoot1{
+    color: white;
+    font-size: 60px;
+}
+.kolom1{
+    text-align: left;
+}
+.textfoot2{
+    color: white;
+    font-size: 60px;
+}
+#navbarText{
+    color: white !important; 
+}
+.navbartext{
+    color: white;
+}
